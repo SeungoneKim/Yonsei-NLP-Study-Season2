@@ -5,18 +5,16 @@ Yonsei NLP Study is consisted of 4 Students who are very passionate in the field
 Every week, each student reads 4 papers, and each student gets to give a presentation on 1 paper. <br>
 After the presentation, all the students discuss about that paper and share ideas. <br>
 <br>
-**[About Season 1]** <br>
-Yonsei NLP Study Season 1 (2021.07.07 ~ 2021.08.25) <br>
-Main Topic : Transformer based Language Models with Various Pretraining Methods <br>
-During this period we have covered 37 papers in total! <br>
+**[About Season 2]** <br>
+Yonsei NLP Study Season 1 (2021.09.07 ~ 2021.11.17) <br>
+Main Topic : Question Answering and Various Background Knowledge to solve QA Tasks <br>
+During this period we have covered 64 papers in total! <br>
 <br>
 **[About this repository]** <br>
-This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season1(2021.07.07~2021.08.25). <br>
+This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season1(2021.09.07 ~ 2021.11.17). <br>
 <br>
 ## About the Members
 * [Seungone Kim(김승원)](https://github.com/SeungoneKim) - Leader!
-* [GUIJIN SON(손규진)](https://github.com/guijinSON)
-* [Hyungjoo Chae(채형주)](https://github.com/kyle8581)
 * [Sejune Joo(주세준)](https://github.com/joocjun)
 
 ## Link to Presentation(Youtube)
@@ -27,20 +25,13 @@ This repository contains presentation materials, links to presentation videos, a
 * [gMLPs (Seungone Kim)](https://www.youtube.com/watch?v=dcolzDa5YUU)
 
 ## List of Papers we covered
-The following are the list of 37 papers <br>
-(Two more papers to be added) <br>
+The following are the list of 64 papers <br>
 
-### Prerequisite Papers
-* [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
-* [Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
-* [Attention is All You Need](https://arxiv.org/abs/1706.03762)
-* [BERT: Pre-training of Deep bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-
-### Transformer based Language Models with Various Pretraining Methods
-* [Improving Language Understanding by Generative Pre-Training](https://paperswithcode.com/method/gpt)
-* [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/method/gpt-2/)
-* [Language Models are Few-Shot Learners](https://paperswithcode.com/method/gpt-3)
-* [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+### Question Answering Tasks & Datasets
+* [Wikiqa : A challenge dataset for open-domain question answering](https://aclanthology.org/D15-1237.pdf) - EMNLP 2015
+* [SQuAD : 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250) - EMNLP 2016
+* [MS MARCO : A Human Generated MAchine Reading COmprehension Dataset](https://openreview.net/forum?id=rJ-Qj8-_ZH) - NeurIPS 2016
+* [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1705.03551)
 * [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
 * [Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450)
 * [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)
