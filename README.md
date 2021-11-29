@@ -1,5 +1,5 @@
-# Yonsei NLP Study Season 1
-![main](./img/season2 summary.PNG) <br>
+# Yonsei NLP Study Season 2
+![main](./img/summary.PNG) <br>
 **[About Yonsei NLP Study]** <br>
 Yonsei NLP Study is consisted of 4 Students who are very passionate in the field of Natural Language Processing! <br>
 Every week, each student reads 4 papers, and each student gets to give a presentation on 1 paper. <br>
