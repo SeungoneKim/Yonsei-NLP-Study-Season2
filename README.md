@@ -2,16 +2,16 @@
 ![main](./img/summary.PNG) <br>
 **[About Yonsei NLP Study]** <br>
 Yonsei NLP Study is consisted of 4 Students who are very passionate in the field of Natural Language Processing! <br>
-Every week, each student reads 4 papers, and each student gets to give a presentation on 1 paper. <br>
+Every week, each student read papers regarding a certain subject. Then, each student gets to present about the topic he prepared for. <br>
 After the presentation, all the students discuss about that paper and share ideas. <br>
 <br>
 **[About Season 2]** <br>
-Yonsei NLP Study Season 1 (2021.09.07 ~ 2021.11.17) <br>
-Main Topic : Question Answering and Various Background Knowledge to solve QA Tasks <br>
-During this period we have covered 64 papers in total! <br>
+Yonsei NLP Study Season 2 (2021.09.07 ~ 2021.11.17) <br>
+Main Topic : Question Answering and Various Techniques needed to solve QA Tasks <br>
+Among the 4 members, Seungone Kim and Sejune Joo participated in this topic! <br>
 <br>
 **[About this repository]** <br>
-This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season1(2021.09.07 ~ 2021.11.17). <br>
+This repository contains presentation materials, links to presentation videos, and a summary of all the papers we have studied in Yonsei NLP Study Season2(2021.09.08~2021.11.17). Our Main Topic was Question Answering and the various techniques needed to solve QA. We have covered 55 papers in total! <br>
 <br>
 ## About the Members
 * [Seungone Kim(김승원)](https://github.com/SeungoneKim) - Leader!
