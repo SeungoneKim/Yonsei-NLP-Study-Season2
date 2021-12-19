@@ -2,7 +2,8 @@
 ![main](./img/summary.PNG) <br>
 **[About Yonsei NLP Study]** <br>
 Yonsei NLP Study is consisted of 4 Students who are very passionate in the field of Natural Language Processing! <br>
-Every week, each student read papers regarding a certain subject. Then, each student gets to present about the topic he prepared for. <br>
+Every week, each student read papers regarding a certain subject. <br>
+Then, each student gets to present about the topic he prepared for. <br>
 After the presentation, all the students discuss about that paper and share ideas. <br>
 <br>
 **[About Season 2]** <br>
