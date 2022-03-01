@@ -19,6 +19,7 @@ This repository contains presentation materials, links to presentation videos, a
 * [Sejune Joo(주세준)](https://github.com/joocjun)
 
 ## Link to Presentation(Youtube)
+* [Taxonomy of QA Datasets and Tasks (Seungone Kim)](https://www.youtube.com/watch?v=qPt9pvq-KFY&t=91s)
 * [Information Retrieval (Seungone Kim)](https://www.youtube.com/watch?v=JvNX5XYxBjk&t=1392s)
 * [Knowledge Graph & Commonsense Knowledge Graph (Seungone Kim)](https://www.youtube.com/watch?v=PxoDXV2Ep-4&t=2272s)
 * [Knowledge Injection & Domain Adaptation (Seungone Kim)](https://www.youtube.com/watch?v=0DBNgkzaZqY&t=755s)
